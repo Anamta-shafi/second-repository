@@ -1,4 +1,4 @@
-this is my second file of feature brnch
+this is my second file of feature branch is this
 it is very important
 edit it cautiously
 
